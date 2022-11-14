@@ -1,0 +1,5 @@
+merkle*
+rollup*
+!*.circom
+
+node_modules
